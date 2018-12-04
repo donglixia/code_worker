@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code_worker.iml" filepath="$PROJECT_DIR$/code_worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker_intface/worker_intface.iml" filepath="$PROJECT_DIR$/worker_intface/worker_intface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker_service/worker_service.iml" filepath="$PROJECT_DIR$/worker_service/worker_service.iml" />
+    </modules>
+  </component>
+</project>

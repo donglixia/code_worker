@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lay:worker_intface:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lay/worker_intface/unknown/worker_intface-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lay/worker_intface/unknown/worker_intface-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lay/worker_intface/unknown/worker_intface-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
